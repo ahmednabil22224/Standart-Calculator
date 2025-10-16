@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+ul {
+  list-style: none;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #aecdf0;
+}
+.app {
+  width: 90%;
+  max-width: 300px;
+  border: 5px solid violet;
+  border-radius: 10px;
+  padding: 15px;
+  background-color: #777;
+}
+input {
+  width: 100%;
+  padding: 20px 10px;
+  border-radius: 8px;
+  margin-bottom: 25px;
+  font-size: 1.25rem;
+}
+
+#bttns {
+  height: 300px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  padding: 2px;
+}
+#bttns button {
+  background-color: rgb(42, 84, 84);
+  text-align: center;
+  align-content: center;
+  border: 2px solid;
+  border-radius: 8px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #fff;
+}
+#bttns button:hover {
+  background-color: #5a9;
+  cursor: pointer;
+}
