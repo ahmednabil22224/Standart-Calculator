@@ -49,7 +49,8 @@ This project demonstrates clean DOM manipulation, event delegation, and basic ar
 ┣ 📂 js
 ┃ ┗ main.js
 ┣📂 images
-┃ ┗ main.js
+┃ ┗ lighthouse-report.png
+┃ ┗ simple-calculator.png
 ┣ 📜 index.html
 ┗ 📜 README.md
 ```
@@ -71,4 +72,6 @@ This project demonstrates clean DOM manipulation, event delegation, and basic ar
 
 2.Open index.html directly in your browser.
 
-💡 No build tools needed — pure vanilla JS.
+# 💡 No build tools needed — pure vanilla JS.
+
+# Standart-Calculator
