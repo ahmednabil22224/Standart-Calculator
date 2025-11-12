@@ -5,7 +5,12 @@ This project demonstrates clean DOM manipulation, event delegation, and basic ar
 
 ---
 
-## 🚀 Demo
+## 🌐 Live Demo
+
+👉 [View Demo on GitHub Pages]([https://github.com/ahmednabil22224/Standart-Calculator/](https://ahmednabil22224.github.io/Standart-Calculator/))
+
+---
+## 🚀 Screenshot
 
 ![App Screenshot](./images/simple-calculator.png)
 
@@ -54,12 +59,6 @@ This project demonstrates clean DOM manipulation, event delegation, and basic ar
 ┣ 📜 index.html
 ┗ 📜 README.md
 ```
-
----
-
-## 🌐 Live Demo
-
-👉 [View Demo on GitHub Pages](https://github.com/ahmednabil22224/Standart-Calculator/)
 
 ---
 
