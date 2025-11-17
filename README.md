@@ -12,7 +12,7 @@ This project demonstrates clean DOM manipulation, event delegation, and basic ar
 ---
 ## 🚀 Screenshot
 
-![App Screenshot](./images/simple-calculator.png)
+![App Screenshot](./images/simple-calculator.png) 
 
 ---
 
